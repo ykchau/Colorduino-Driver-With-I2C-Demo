@@ -1,3 +1,12 @@
+/*
+	Project  : Colorduino
+ 	file     : colorduinoboard.cpp
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
+
 #include "colorduinoBoard.h"
 
 #include "font.h"
