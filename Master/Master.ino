@@ -1,3 +1,11 @@
+/*
+	Project  : Colorduino
+ 	file     : Master.ino
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
 #include <ESP8266WiFi.h>
 #include <Ticker.h>
 #include <Wire.h>
