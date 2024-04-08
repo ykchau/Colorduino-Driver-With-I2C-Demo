@@ -1,9 +1,10 @@
 /*
-	Project : Colorduino
- 	file    : Slave.ino
-	Author  : ykchau
- 	youtube : youtube.com/ykchau888
-
+	Project  : Colorduino
+ 	file     : Slave.ino
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
 */
 
 // Board initialize
