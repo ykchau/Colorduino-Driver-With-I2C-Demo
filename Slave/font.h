@@ -1,8 +1,8 @@
 /*
-	  Project  : Colorduino
+	Project  : LaLiMat project (https://www.youtube.com/playlist?list=PLJBKmE2nNweRXOebZjydkMEiq2pHtBMOS in Chinese)
    	file     : font.h
-	  Author   : ykchau
- 	  youtube  : youtube.com/ykchau888
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
   	Licenese : GPL-3.0
    	Please let me know if you use it commercial project.
 */
