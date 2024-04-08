@@ -1,5 +1,5 @@
 /*
-	Project  : Colorduino
+	Project  : LaLiMat project (https://www.youtube.com/playlist?list=PLJBKmE2nNweRXOebZjydkMEiq2pHtBMOS in Chinese)
  	file     : Slave.ino
 	Author   : ykchau
  	youtube  : youtube.com/ykchau888
