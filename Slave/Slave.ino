@@ -1,6 +1,8 @@
 /*
-	Colorduino
-	This file is based on the 7_NTP
+	Project : Colorduino
+ 	file    : Slave.ino
+	Author  : ykchau
+ 	youtube : youtube.com/ykchau888
 
 */
 
