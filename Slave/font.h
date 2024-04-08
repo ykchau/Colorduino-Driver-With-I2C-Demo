@@ -1,3 +1,12 @@
+/*
+	  Project  : Colorduino
+   	file     : font.h
+	  Author   : ykchau
+ 	  youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
+
 const byte letters[95][8] PROGMEM = { //  10 + 26 + 26 + 26 + 2 + 5 = 95, small size 5x4, except special letter ( Last 8 )
   {0xf8, 0x88, 0xf8, 0x00, 0x00, 0x00, 0x00, 0x00}, // #0, 0
   {0x00, 0x00, 0xf8, 0x00, 0x00, 0x00, 0x00, 0x00}, // #1, 1
