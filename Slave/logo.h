@@ -1,3 +1,12 @@
+/*
+	Project  : Colorduino
+ 	file     : logo.h
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
+
 /****************************
     1. A [8][8] array for each logo
     2. Each point store 1 ~ 3 color data
