@@ -1,3 +1,12 @@
+/*
+	Project  : Colorduino
+ 	file     : colorduinoboard.h
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
+
 #ifndef COLORDUINOBOARD_H_
 #define COLORDUINOBOARD_H_
 
