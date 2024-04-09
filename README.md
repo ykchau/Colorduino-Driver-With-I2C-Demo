@@ -1,7 +1,7 @@
 Copyright © 2024 YK Chau ( youtube.com/ykchau888 ). All rights reserved.
 
 
-# Colorduino I2C Demo with Driver
+# Colorduino Driver with I2C communication Demo
 This is part of the LaLiMat project (https://www.youtube.com/playlist?list=PLJBKmE2nNweRXOebZjydkMEiq2pHtBMOS in Chinese), which is a multi-function Pixel Display, similar to LaMetric Time/Awtrix.
 
 I had planned to release the entire project on YouTube, but I didn't have time to create the videos, so the work was abandoned. I don't want to waste the work I've done, so I uploaded this to GitHub, this is not the final version that you see on youtube, because the code is too long and hard to explain without step by step, so I uploaded the basic version, hoping it will help someone who is looking for a solution for Colorduino.
